@@ -1,2 +1,1 @@
-# Prepcourse-Henry
-Este es un repositorio de prueba para curso 
+este repositorio es un aprueba de como crear y de clonarlo a mi escritrio virtual 
